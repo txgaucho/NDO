@@ -1,2 +1,2 @@
-# NDO
-# Allows you
+# See notebook for details.
+#
